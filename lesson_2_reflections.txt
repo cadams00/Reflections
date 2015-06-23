@@ -7,3 +7,6 @@ The staging area is a temporary space that we can place 1 or more files in to cr
 How can you use the staging area to make sure you have one commit per logical change?
 You can use the git diff --staged command to see the difference between the staged file and the last commit file. 
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help? 
+While working on new or different features that you werent sure you wanted to keep or if they would work at all using branches to seperate those out into a different branch so you could work on them would make it easier to concentrate on one feature or another. 
+
