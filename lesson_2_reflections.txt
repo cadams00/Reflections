@@ -16,3 +16,5 @@ It is a good representation of what is actually a branch and what is not. Showin
 What is the result of merging two branches together? Why do we represent it in the diagram the way that we do? 
 It takes all the changes and compares them to the existing to see what are changes and then saves them as one new master or branch depending on how you do it. It is represented as the two branches coming together because you are combining them. 
 
+What are the pros and cons of Git's automanic merging vs. always doing merges manually??
+Automatic merging lets you easily merge things that are simple and also points out if you have conflicts so that you can resolve them easily. Manually commiting means you must do all of that by hand even when it is something that isn't complicated or difficult. 
