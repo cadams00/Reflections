@@ -11,3 +11,8 @@ one instead of another?
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	This gives you a fresh place to start as well as a known state of the remote for when you are offline. 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	I would use a checkout procedure on a shared file system. It would be easier to commit because there would be less controlls. It would be harder because the checkout procedure is normally messy and commits can be made without everyone looking at them. 
+
+
+
