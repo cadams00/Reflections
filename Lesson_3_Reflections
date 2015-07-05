@@ -14,5 +14,6 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	I would use a checkout procedure on a shared file system. It would be easier to commit because there would be less controlls. It would be harder because the checkout procedure is normally messy and commits can be made without everyone looking at them. 
 
-
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	Working on different features or different people working on different parts of the code is when I would branch. Not branching makes things simpler and less confusing when tryin to remerg the code into the master. Using different banches makes it easier for different people to work on the same project or seperate features. 
 
